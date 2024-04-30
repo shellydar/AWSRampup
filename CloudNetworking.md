@@ -78,6 +78,21 @@
 | [Creating active/passive BGP connections over AWS Direct Connect](https://aws.amazon.com/blogs/networking-and-content-delivery/creating-active-passive-bgp-connections-over-aws-direct-connect/) | Blog | 2 hours |
 | [AWS re:Invent 2018: AWS Direct Connect: Deep Dive (NET403)](https://youtu.be/DXFooR95BYc) | Video | 1 hour |
 
+
+## Week 5 – Level 400 –Networking cost optimization
+
+| Title | Type | Duration |
+| --- | --- | --- |
+| [Building scalable secure multi-vpc network infrastructure](https://docs.aws.amazon.com/whitepapers/latest/building-scalable-secure-multi-vpc-network-infrastructure/welcome.html) | Whitepaper | 2 hours |
+| [transitioning to multiple accounts](https://docs.aws.amazon.com/prescriptive-guidance/latest/transitioning-to-multiple-aws-accounts/welcome.html) | Whitepaper | 2 hours |
+| [AWS network optimization tips](https://aws.amazon.com/blogs/networking-and-content-delivery/aws-network-optimization-tips/) | blog | 2 hours |
+| [Using VPC Sharing](https://aws.amazon.com/blogs/architecture/using-vpc-sharing-for-a-cost-effective-multi-account-microservice-architecture/) | blog | 2 hours |
+| [Reduce costs using VPC Endpoints](https://aws.amazon.com/blogs/architecture/reduce-cost-and-increase-security-with-amazon-vpc-endpoints/) | blog | 2 hours |
+| [Overview of Data Transfer costs](https://aws.amazon.com/blogs/architecture/overview-of-data-transfer-costs-for-common-architectures/) | blog | 2 hours |
+| [Advanced VPC Designs and new capabilities](https://www.youtube.com/watch?v=cRdDCkbE4es) | video | 45 min |
+
+
+
 ## Additional resources:
 
 - [AWS Networking](https://aws.amazon.com/blogs/networking-and-content-delivery) blog
