@@ -60,6 +60,8 @@
 | [Check AWS CDK applications for best practices by using rule packs](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/check-aws-cdk-applications-or-cloudformation-templates-for-best-practices-by-using-cdk-nag-rule-packs.html?did=pg_card&trk=pg_card) | AWS Prescriptive Guidance | 30 min |
 | --- | --- | --- |
 | [Implementing health checks](https://aws.amazon.com/builders-library/implementing-health-checks/?did=ba_card&trk=ba_card) | Blog | 30 min |
+| [Architectural Resilience Day Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/bead8108-c343-494c-b073-dac5b3180268/en-US) | Workshop | 120 min |
+| [Navigate the storm: Unleashing controlled chaos for resilient systems](https://catalog.workshops.aws/fis-v2/en-US) | Workshop | 120 min |
 
 ## Additional resources:
 
