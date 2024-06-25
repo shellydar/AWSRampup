@@ -1,6 +1,6 @@
 # Cloud architect ramp-up curriculum 
 
-For Architectls looking to ramp-up on AWS, See the resources below:
+For Architects looking to ramp-up on AWS, See the resources below:
 
 
 ## Week 1 – Level 100 - Fundamentals
