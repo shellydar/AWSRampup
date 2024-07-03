@@ -1,6 +1,4 @@
-
-
-# Cloud SysOps engineer ramp-up curriculum
+# Cloud DevOps engineer ramp-up curriculum
 
 ## Week 1 – Level 100 - Fundamentals
 
@@ -16,27 +14,31 @@
 | [Introduction to Amazon CloudWatch](https://www.aws.training/learningobject/video?id=16390) | On-Line Training | 15 min |
 | [Introduction to Amazon CloudWatch Logs](https://explore.skillbuilder.aws/learn/course/external/view/elearning/191/introduction-to-amazon-cloudwatch-logs) | On-Line Training | 15 min |
 | [Introduction to Amazon CloudWatch Logs Insights](https://explore.skillbuilder.aws/learn/course/external/view/elearning/265/introduction-to-amazon-cloudwatch-logs-insights) | On-Line Training | 15 min |
+| Introduction to AWS CloudFormation | On-Line Training | 15 min |
 | [Troubleshooting: AWS CloudFormation Stacks](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/1336/troubleshooting-aws-cloudformation-stacks) | On-Line Training | 30 min |
 | [AWS Systems Manager](https://explore.skillbuilder.aws/learn/course/external/view/elearning/456/aws-systems-manager) | On-Line Training | 3 Hours |
 | [Automate anything with AWS Systems Manager](https://www.youtube.com/watch?v=AaI2xkW85yE) | Video | 1 hour |
 | [Getting Started with AWS CloudTrail](https://explore.skillbuilder.aws/learn/course/external/view/elearning/193/getting-started-with-aws-cloudtrail) | On-Line Training | 1Hour |
 | [Performance Efficiency](https://wellarchitectedlabs.com/performance-efficiency/) | Workshop | 2 Hours |
-| [Reliability 100-200 labs](https://wellarchitectedlabs.com/reliability/100_labs/) | Workshop | 2 Hours |
+| [Reliability](https://wellarchitectedlabs.com/reliability/100_labs/) | Workshop | 2 Hours |
 
-## Week 2 – Level 200 
+## Week 2 – Level 200 - Build
+
 | Title | Type | Duration |
 | --- | --- | --- |
 | The Phoenix Project | Book | 1 week|
 | [AWS Cloud Storage - Object/File/Block Storage Foundations](https://www.youtube.com/watch?v=YzpQsnz_6tY) | Video | 1 hour |
 | [Best practices for building AMIs](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/windows-amis-guidelines.html) | User Guide | 15 min |
 | [Introduction to DevOps on AWS](https://d0.awsstatic.com/whitepapers/AWS_DevOps.pdf) | Whitepaper | 30 min |
+| [Automating patch management and compliance using AWS](https://www.youtube.com/watch?v=gL3baXQJvc0) | Video | 1 hour |
+| [Centrally deploy patching operations across your AWS Organization using Systems Manager Quick Setup](https://aws.amazon.com/blogs/mt/centrally-deploy-patching-operations-across-your-aws-organization-using-systems-manager-quick-setup/) | Blog | 1 Hour |
 | [AWS CloudWatch and Systems Manager Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/a8e9c6a6-0ba9-48a7-a90d-378a440ab8ba/en-US) | Workshop | 2 Hours |
+| [Implementing health checks](https://aws.amazon.com/builders-library/implementing-health-checks/?did=ba_card&trk=ba_card) | Blog | 30 min |
 
-## Week 3 – Level 300 - Operate
+## Week 2 – Level 300 - Operate
 
 | Title | Type | Duration |
 | --- | --- | --- |
-| [Reliability - 300 labs](https://wellarchitectedlabs.com/reliability/100_labs/) | Workshop | 2 Hours |
 | [Building dashboards for operational visibility](https://aws.amazon.com/builders-library/building-dashboards-for-operational-visibility/) | Blog | 1 Hour |
 | [Observability best practices at Amazon](https://www.youtube.com/watch?v=zZPzXEBW4P8) | Video | 1 hour |
 | [Best practices for organizing and operating on AWS](https://www.youtube.com/watch?v=Eeyd6BDpucw) | Video | 1 hour |
@@ -53,10 +55,9 @@
 | [Easy management and monitoring using AWS System Manager and Amazon CloudWatch Application Insights](https://aws.amazon.com/blogs/mt/easy-management-and-monitoring-using-aws-system-manager-and-amazon-cloudwatch-application-insights/) | Blog | 30 min |
 
 ## Week 4 – Level 400 - experts
-
 | Title | Type | Duration |
 | --- | --- | --- |
-| [Implementing health checks](https://aws.amazon.com/builders-library/implementing-health-checks/?did=ba_card&trk=ba_card) | Blog | 30 min |
+| [Check AWS CDK applications for best practices by using rule packs](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/check-aws-cdk-applications-or-cloudformation-templates-for-best-practices-by-using-cdk-nag-rule-packs.html?did=pg_card&trk=pg_card) | AWS Prescriptive Guidance | 30 min |
 | [Architectural Resilience Day Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/bead8108-c343-494c-b073-dac5b3180268/en-US) | Workshop | 120 min |
 | [Navigate the storm: Unleashing controlled chaos for resilient systems](https://catalog.workshops.aws/fis-v2/en-US) | Workshop | 120 min |
 
