@@ -1,6 +1,6 @@
 # Cloud architect ramp-up curriculum 
 
-For Architectls looking to ramp-up on AWS, See the resources below:
+For Architects looking to ramp-up on AWS, See the resources below:
 
 
 ## Week 1 – Level 100 - Fundamentals
@@ -101,7 +101,20 @@ At this point it is recommended to take the course: [Architecting on AWS](https:
 | [Build a Big Data Analytics Pipeline Using Modern Data Architecture  Amazon Web Services](https://www.youtube.com/watch?v=u_8pKVPviE8) | Video | 1 Hour |
 | [AWS Analytics Services - When to Use What?](https://www.youtube.com/watch?v=9f80CQ7N3xg) | Video | 1 Hour |
 | [AWS Summit SF 2018: AWS Purpose-Built Database Strategy: The Right Tool for the Right Job (SRV309)](https://www.youtube.com/watch?v=mPyAQZoxAlc) | Video | 1 Hour |
-| [Knorex: Scaling from Millions to Billions with Serverless Analytics](https://www.youtube.com/watch?v=RBV0N_FUCG4) | Video | 1 Hour |
+| [ Scaling from Millions to Billions with Serverless Analytics](https://www.youtube.com/watch?v=RBV0N_FUCG4) | Video | 1 Hour |
+
+## Week 8 – SaaS and Multi-tenancy
+
+| Title | Type | Duration |
+| --- | --- | --- |
+|[SaaS lens]( https://docs.aws.amazon.com/wellarchitected/latest/saas-lens/saas-lens.html)| Whitepaper | 4 hours|
+|[SaaS journey map]( https://d1.awsstatic.com/saas-journey-map-2023.pdf)| Whitepaper | 4 hours|
+|[SaaS Architecture Fundamentals]( https://docs.aws.amazon.com/whitepapers/latest/saas-architecture-fundamentals/saas-architecture-fundamentals.html)| Whitepaper | 4 hours|
+|[Manage tenants across multiple SaaS products on a single control plane]( https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/manage-tenants-across-multiple-saas-products-on-a-single-control-plane.html)| Whitepaper | 4 hours|
+|[AWS Serverless SaaS Workshop]( https://catalog.us-east-1.prod.workshops.aws/workshops/b0c6ad36-0a4b-45d8-856b-8a64f0ac76bb/en-US)| Workshop | 4 hours|
+|[SaaS Microservices Workshop]( https://catalog.workshops.aws/saas-microservices/en-US)| Workshop | 3 hours|
+|[SaaS Factory SaaS Control Plane Workshop  Info]( https://catalog.us-east-1.prod.workshops.aws/workshops/eba791b1-742c-4899-88bb-71ff70f2eedc/en-US)| Workshop | 2 hours|
+
 
 ## Recommended certifications:
 
