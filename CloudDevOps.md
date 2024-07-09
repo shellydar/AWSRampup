@@ -21,6 +21,8 @@
 | [Getting Started with AWS CloudTrail](https://explore.skillbuilder.aws/learn/course/external/view/elearning/193/getting-started-with-aws-cloudtrail) | On-Line Training | 1Hour |
 | [Performance Efficiency](https://wellarchitectedlabs.com/performance-efficiency/) | Workshop | 2 Hours |
 | [Reliability](https://wellarchitectedlabs.com/reliability/100_labs/) | Workshop | 2 Hours |
+| [AWS Fault Isolation Boundaries](https://docs.aws.amazon.com/whitepapers/latest/aws-fault-isolation-boundaries/abstract-and-introduction.html) | Whitepaper | 2 Hours |
+
 
 ## Week 2 – Level 200 - Build
 
