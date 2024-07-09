@@ -27,6 +27,7 @@
 | Title | Type | Duration |
 | --- | --- | --- |
 | The Phoenix Project | Book | 1 week|
+| [Establishing RPO and RTO Targets for Cloud Applications](https://aws.amazon.com/blogs/mt/establishing-rpo-and-rto-targets-for-cloud-applications/) | Blog | 1 hour |
 | [AWS Cloud Storage - Object/File/Block Storage Foundations](https://www.youtube.com/watch?v=YzpQsnz_6tY) | Video | 1 hour |
 | [Best practices for building AMIs](https://docs.aws.amazon.com/AWSEC2/latest/WindowsGuide/windows-amis-guidelines.html) | User Guide | 15 min |
 | [Introduction to DevOps on AWS](https://d0.awsstatic.com/whitepapers/AWS_DevOps.pdf) | Whitepaper | 30 min |

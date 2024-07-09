@@ -47,6 +47,7 @@
 | [AWS re:Invent 2018: Autonomous DevSecOps: Five Steps to a Self-Driving Cloud (ENT214-S)](https://www.youtube.com/watch?v=8ZqSyEA69fw) | Video | 40 min |
 | [GuardDuty workshop](https://hands-on-guardduty.awssecworkshops.com/) | Workshop | 4 hours |
 | [AWS Security Reference Architecture (AWS SRA)](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/?did=pg_card&trk=pg_card) | Guide | 4 hours |
+| [Data Classification](https://docs.aws.amazon.com/whitepapers/latest/data-classification/data-classification.html) | Whitepaper | 2 hours |
 
 ## Week 3 – Level 300 - Intermediate
 
