@@ -85,6 +85,9 @@
 | [Building an end-to-end Kubernetes-based DevSecOps software factory on AWS](https://aws.amazon.com/blogs/devops/building-an-end-to-end-kubernetes-based-devsecops-software-factory-on-aws/) | Blog | 1 Hour |
 | [AWS re:Invent 2018: Five New Security Automations Using AWS Security Services & Open Source (SEC403](https://youtu.be/M5yQpegaYF8) | Video | 1 hour |
 | [How to use Amazon GuardDuty and AWS Web Application Firewall to automatically block suspicious hosts](https://aws.amazon.com/blogs/security/how-to-use-amazon-guardduty-and-aws-web-application-firewall-to-automatically-block-suspicious-hosts/) | Blog | 2 Hour |
+| [How to use AWS Security Hub and Amazon OpenSearch Service for SIEM](https://aws.amazon.com/blogs/security/how-to-use-aws-security-hub-and-amazon-opensearch-service-for-siem/) | Blog | 2 Hour |
+|[Patterns for consuming custom log sources in Amazon Security Lake](https://aws.amazon.com/blogs/security/patterns-for-consuming-custom-log-sources-in-amazon-security-lake/)| Blog | 2 Hour |
+|[Open Cybersecurity Schema Framework (OCSF)](https://docs.aws.amazon.com/security-lake/latest/userguide/open-cybersecurity-schema-framework.html)| Documentation | 2 Hour |
 
 ## Recommended certifications:
 
@@ -96,3 +99,8 @@
 
 - [https://aws.amazon.com/blogs/security/](https://aws.amazon.com/blogs/security/)
 - [Cloud Security Resources](https://aws.amazon.com/security/security-learning/?cards-top.sort-by=item.additionalFields.sortDate&cards-top.sort-order=desc&awsf.Types=*all)
+
+
+## Cool Solutions
+[Security Insights on AWS](https://docs.aws.amazon.com/solutions/latest/security-insights-on-aws/solution-overview.html)
+[Services demo](https://catalog.workshops.aws/security-demo-guide/en-US)
