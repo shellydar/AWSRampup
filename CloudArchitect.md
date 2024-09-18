@@ -114,6 +114,7 @@ At this point it is recommended to take the course: [Architecting on AWS](https:
 |[AWS Serverless SaaS Workshop]( https://catalog.us-east-1.prod.workshops.aws/workshops/b0c6ad36-0a4b-45d8-856b-8a64f0ac76bb/en-US)| Workshop | 4 hours|
 |[SaaS Microservices Workshop]( https://catalog.workshops.aws/saas-microservices/en-US)| Workshop | 3 hours|
 |[SaaS Factory SaaS Control Plane Workshop  Info]( https://catalog.us-east-1.prod.workshops.aws/workshops/eba791b1-742c-4899-88bb-71ff70f2eedc/en-US)| Workshop | 2 hours|
+|[SaaS Control github repository]( https://github.com/awslabs/sbt-aws)| Github repository | ?|
 
 
 ## Recommended certifications:
