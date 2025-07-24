@@ -9,3 +9,4 @@ In this repository I'll share the resources I gathered for the different roles t
 4. [SysOps](CloudSysOps.md)
 5. [DevOps](CloudDevOps.md)
 6. [Network engineer](CloudNetworking.md)
+7. [Cloud DBA](CloudDBA.md)
