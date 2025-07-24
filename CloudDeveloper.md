@@ -42,6 +42,7 @@
 | [Getting Started with Serverless Computing Using AWS Lambda - AWS Online Tech Talks](https://www.youtube.com/watch?v=IrRMEclU8kU) | Video | 1 Hour |
 | [AWS re:Invent 2018: [REPEAT 2] Serverless Architectural Patterns and Best Practices (ARC305-R2)](https://youtu.be/08AjVGGQaKQ) | Video | 1 Hour |
 | [Building serverless microservices with AWS](https://www.youtube.com/watch?v=gEiULhbHKQI) | Video | 1 Hour |
+| [Designing Event-Driven Architectures](https://skillbuilder.aws/learn/9M9FHG925K/designing-eventdriven-architectures/A3Y38BXWC6) | online course | 2 Hours |
 | [AWS re:Invent 2019: [REPEAT 3] Application integration patterns for microservices (API315-R3)](https://www.youtube.com/watch?v=K6Ehvt656Ss) | Video | 1 Hour |
 | [Async-messaging Workshop](https://async-messaging.workshop.aws/) | Workshop | 1 day |
 
@@ -58,3 +59,14 @@
 | [EKS Workshop](https://www.eksworkshop.com/) | Workshop | 2 days |
 | [ECS Workshop](https://ecsworkshop.com/) | Workshop | 2 days |
 
+## Week 4 – Level 400 – Generative AI
+
+| Title | Type | Duration |
+| --- | --- | --- |
+| [Generative AI Learning Plan for Developers](https://skillbuilder.aws/learning-plan/5C9XQBTXBB/generative-ai-learning-plan-for-developers-includes-labs/EGATKJP13J) | On-line course | 1 day |
+
+
+## Recommended certifications:
+
+- AWS Certified Developer - Associate
+- AWS certified DevOps – Professional
