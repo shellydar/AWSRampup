@@ -9,27 +9,26 @@ For Architects looking to ramp-up on AWS, See the resources below:
 | --- | --- | --- |
 | [Overview of Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html) | Whitepaper | 4 hours |
 | [AWS Well-Architected Framework](https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html) | Whitepaper | 2 hours |
-| [AWS Security Fundamentals](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/48/aws-security-fundamentals-second-edition?src=detail2) | On-Line Training | 2 hours |
+| [AWS Security Fundamentals](https://skillbuilder.aws/learn/S2N5PM41ZK/aws-security-fundamentals-second-edition/E71QQGTCRZ) | On-Line Training | 2 hours |
 | [Cloud design patterns](http://en.clouddesignpattern.org/index.php/Main_Page) | Whitepaper | 2-3 hours |
-| [AWS Application Services Overview](https://www.aws.training/learningobject/video?id=16206) | On-Line Training | 5 min |
-| [AWS Messaging Services Overview](https://www.aws.training/learningobject/video?id=16209) | On-Line Training | 5 min |
-| [AWS General WebApps Workshop](https://general-webapp.workshop.aws/) | Workshop | 1 day |
+| [AWS Compute Services Overview](https://skillbuilder.aws/learn/QV37EUK5Y7/aws-compute-services-overview/EG41UCZ2T3) | On-Line Training | 40 min |
+| [Getting into the Serverless Mindset](https://skillbuilder.aws/learn/6V6HTC5W5D/getting-into-the-serverless-mindset/4EF5792A2K) | On-Line Training | 30 min |
+| [AWS serverless patterns workshop](https://catalog.workshops.aws/serverless-patterns/en-US) | Workshop | 1 day |
 
 ## Week 2 – Level 200 - Messaging
 
 | Title | Type | Duration |
 | --- | --- | --- |
-| [Introduction to Amazon API Gateway](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/232/introduction-to-amazon-api-gateway) | On-Line Training | 5 min |
-| [Introduction to Amazon Elastic Load Balancer - Application](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/30/introduction-to-amazon-elastic-load-balancer-application) | On-Line Training | 15 min |
-| [Introduction to Amazon Simple Notification Service (SNS)](https://www.aws.training/learningobject/video?id=15881) | On-Line Training | 10 min |
-| [Introduction to Amazon Simple Queue Service (SQS)](https://www.aws.training/learningobject/video?id=15882) | On-Line Training | 1 Hour 10 min |
-| [Getting Started with Amazon Simple Storage Service (Amazon S3)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/161/getting-started-with-amazon-simple-storage-service-amazon-s3) | On-Line Training | 1 Hour |
-| [Introduction to AWS Fargate](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/81/introduction-to-aws-fargate) | On-Line Training | 10 min |
-| [Getting into the Serverless Mindset](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/105/getting-into-the-serverless-mindset) | On-Line Training | 30 min |
-| [AWS Lambda Foundations](https://www.aws.training/learningobject/wbc?id=27197) | On-line class | 1 Hour |
-| [Amazon DynamoDB for Serverless Architectures](https://www.aws.training/learningobject/wbc?id=27196) | On-line class | 2 Hour |
-| [Introduction to Serverless Development](https://www.aws.training/learningobject/wbc?id=27074) | On-line class | 25 min |
-| [Introduction to AWS Step Functions](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/8819/introduction-to-step-functions) | On-line class | 25 min |
+| [Introduction to Amazon API Gateway](https://skillbuilder.aws/learn/2CWTRRKXXU/introduction-to-amazon-api-gateway/K51ZBCKRSK) | On-Line Training | 10 min |
+| [Introduction to Amazon Elastic Load Balancer - Application](https://skillbuilder.aws/learn/72MYSKW681/getting-started-with-application-load-balancer/1TVTD6FGSD) | On-Line Training | 1 hour |
+| [Introduction to Amazon Simple Notification Service (SNS)](https://skillbuilder.aws/learn/RD9AS2GJKC/amazon-simple-notification-service-sns-getting-started/KH9EY5CXS2) | On-Line Training | 1 hour |
+| [Introduction to Amazon Simple Queue Service (SQS)](https://skillbuilder.aws/learn/852GE321E4/aws-simple-queue-service-sqs-getting-started/BHE6AN97CN) | On-Line Training | 1 Hour  |
+| [Getting Started with Amazon Simple Storage Service (Amazon S3)](https://skillbuilder.aws/learn/H99Y6PR2F7/amazon-s3-getting-started/TCVDGQFEJR) | On-Line Training | 1 Hour |
+| [Introduction to AWS Fargate](https://skillbuilder.aws/learn/6QS9CM1V7K/getting-started-with-aws-fargate/EDX6V7B5YR) | On-Line Training | 30 min |
+| [AWS Lambda Foundations](https://skillbuilder.aws/learn/XHRS91KKK6/aws-lambda-foundations/R85JRN3APC) | On-line class | 2 Hours |
+| [Amazon DynamoDB for Serverless Architectures](https://skillbuilder.aws/learn/SY1Y83VKTB/amazon-dynamodb-for-serverless-architectures/K9NM3PHH3S) | On-line class | 2 Hour |
+| [Introduction to Serverless Development](https://skillbuilder.aws/learn/K91QMT385B/introduction-to-serverless-development/MJZW4JPH9C) | On-line class | 25 min |
+| [Introduction to AWS Step Functions](https://skillbuilder.aws/learn/5M2R2W7NKM/how-aws-step-functions-work/X3372NQAEC) | On-line class | 55 min |
 | [Getting Started with Serverless](https://webapp.serverlessworkshops.io/) | Workshop | 3 Hours |
 | [Serverless Auth](https://auth.serverlessworkshops.io/) | Workshop | 1 day |
 
@@ -91,7 +90,7 @@ At this point it is recommended to take the course: [Architecting on AWS](https:
 | [Building a Scalable Document Pre-Processing Pipeline](https://aws.amazon.com/blogs/architecture/building-a-scalable-document-pre-processing-pipeline/) | Blog | 2 Hours |
 | [Serverless Architecture for a Web Scraping Solution](https://aws.amazon.com/blogs/architecture/serverless-architecture-for-a-web-scraping-solution/) | Blog | 2 Hours |
 | [Mercado Libre: How to Block Malicious Traffic in a Dynamic Environment](https://aws.amazon.com/blogs/architecture/mercado-libre-how-to-block-malicious-traffic-in-a-dynamic-environment/) | Blog | 2 Hours |
-| [Data processing workshop](https://data-processing.serverlessworkshops.io/) | Workshop | 1 days |
+| [Data processing workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/2a22e604-2f2e-4d7b-85a8-33b38c999234/en-US) | Workshop | 1 days |
 
 ## Week 7 – Data and Analytics
 
