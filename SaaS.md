@@ -7,6 +7,8 @@ Specifically for those who are familiar with AWS but new to SaaS and it's comple
 | Title | Type | Duration |
 | --- | --- | --- |
 | [AWS Well-Architected Framework- SaaS lens](https://docs.aws.amazon.com/wellarchitected/latest/saas-lens/saas-lens.html) | Whitepaper | 2 hours |
+| [SaaS Architecture Fundamentals](https://docs.aws.amazon.com/whitepapers/latest/saas-architecture-fundamentals/saas-architecture-fundamentals.html) | Whitepaper | 2 hours |
+| [SaaS Tenant Isolation Strategies: Isolating Resources in a Multi-Tenant Environment](https://docs.aws.amazon.com/whitepapers/latest/saas-tenant-isolation-strategies/saas-tenant-isolation-strategies.html) | Whitepaper | 2 hours |
 | [Multi-tenant SaaS authorization and API access control: Implementation options and best practices](https://docs.aws.amazon.com/prescriptive-guidance/latest/saas-multitenant-api-access-authorization/introduction.html) | Whitepaper | 2 hours |
 | [Getting started building serverless SaaS architectures](https://www.youtube.com/watch?v=5TBzdDV60wE) | video | 1 hour |
 | [ AWS re:Invent 2019: SaaS migration: Real-world patterns and strategies (ARC371-P) ](https://www.youtube.com/watch?v=P6oIBoIzSAg) | video | 1 hour |
