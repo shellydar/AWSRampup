@@ -13,7 +13,6 @@ Specifically for those who are familiar with AWS but new to SaaS and it's comple
 | [Getting started building serverless SaaS architectures](https://www.youtube.com/watch?v=5TBzdDV60wE) | video | 1 hour |
 | [ AWS re:Invent 2019: SaaS migration: Real-world patterns and strategies (ARC371-P) ](https://www.youtube.com/watch?v=P6oIBoIzSAg) | video | 1 hour |
 | [SaaS architecture pitfalls: Lessons from the field (SAS305)](https://www.youtube.com/watch?v=A93camZSpLc) | video | 1 hour |
-| [SaaS architecture pitfalls: Lessons from the field (SAS305)](https://www.youtube.com/watch?v=A93camZSpLc) | video | 1 hour |
 | [https://yetanothercloudblog.com/article/cost-per-tenant/](https://yetanothercloudblog.com/article/cost-per-tenant/) | Blog | 1 hour |
 | [ How to implement SaaS tenant isolation with ABAC and AWS IAM ](https://aws.amazon.com/blogs/security/how-to-implement-saas-tenant-isolation-with-abac-and-aws-iam/) | Blog | 2 hours |
 | [AWS Serverless SaaS Workshop](https://catalog.us-east-1.prod.workshops.aws/workshops/b0c6ad36-0a4b-45d8-856b-8a64f0ac76bb/en-US/) | Workshop | 1 day |
