@@ -38,3 +38,12 @@ Specifically for those who are familiar with AWS but new to SaaS and it's comple
 | [Hands-on SaaS and AI/ML: Inside a multi-tenant AI/ML solution](https://catalog.workshops.aws/inside-a-multi-tenant-ml-solution/en-US) | Workshop | 1 day |
 | [SaaS Operations Workshop](https://catalog.workshops.aws/saas-operations-2/en-US) | Workshop | 1 day |
 
+
+## Week 3 – Onboard on AWS Marketplace
+
+| Title | Type | Duration |
+| --- | --- | --- |
+| [AWS Marketplace seller Guide ](https://docs.aws.amazon.com/marketplace/latest/userguide/what-is-marketplace.html) | Guide | 2 hours |
+| [AWS Marketplace SaaS Listing Process Integration Guide ](https://awsmp-loadforms.s3.amazonaws.com/AWS+Marketplace+-+SaaS+Integration+Guide.pdf) | Guide | 2 hours |
+| [AWS Marketplace seller API Guide ](https://docs.aws.amazon.com/marketplace/latest/APIReference/welcome.html) | Guide | 2 hours |
+| [AWS Marketplace SaaS integration ](https://github.com/aws-samples/aws-marketplace-serverless-saas-integration) | Repository | 4 hours |
