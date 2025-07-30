@@ -32,6 +32,7 @@ Specifically for those who are familiar with AWS but new to SaaS and it's comple
 | [Implementing managed PostgreSQL for multi-tenant SaaS applications on AWS](https://docs.aws.amazon.com/prescriptive-guidance/latest/saas-multitenant-managed-postgresql/welcome.html) | Whitepaper | 2 hours |
 | [Build a multi-tenant serverless architecture in Amazon OpenSearch Service](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/build-a-multi-tenant-serverless-architecture-in-amazon-opensearch-service.html) | Whitepaper | 2 hours |
 | [Manage tenants across multiple SaaS products on a single control plane](https://docs.aws.amazon.com/prescriptive-guidance/latest/patterns/manage-tenants-across-multiple-saas-products-on-a-single-control-plane.html) | Whitepaper | 2 hours |
+| [ AWS re:Invent 2024 - Generative AI meets multi-tenancy: Inside a working solution (SAS407) ](https://www.youtube.com/watch?v=hq3h5HNIBPE) | video | 1 hour |
 | [SaaS Microservices Workshop](https://catalog.workshops.aws/saas-microservices/en-US) | Workshop | 1 day |
 | [Hands-on SaaS and AI/ML: Inside a multi-tenant AI/ML solution](https://catalog.workshops.aws/inside-a-multi-tenant-ml-solution/en-US) | Workshop | 1 day |
 | [SaaS Operations Workshop](https://catalog.workshops.aws/saas-operations-2/en-US) | Workshop | 1 day |
