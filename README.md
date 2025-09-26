@@ -11,3 +11,4 @@ In this repository I'll share the resources I gathered for the different roles t
 6. [Network engineer](CloudNetworking.md)
 7. [Cloud DBA](CloudDBA.md)
 8. [SaaS Architect](SaaS.md)
+9. [AI Rampup for Cloud Architects](CloudArchitectAI.md)
