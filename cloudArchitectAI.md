@@ -46,3 +46,23 @@ For Architects looking to ramp-up on AI, See the resources below:
 | [AWS re:Invent 2024 - Bias detection in LLMOps: Embedding ID&E into LLM lifecycles (IDE204)](https://www.youtube.com/watch?v=nG8sjVyeTq0) | Video | 1 hour |
 | [Introducing Strands Agents, an Open Source AI Agents SDK](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/) | Blog | 1 hour |
 | [Strands Agents SDK: A technical deep dive into agent architectures and observability](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/) | Blog | 1 hour |
+
+
+## Week 5 – Level 400 - MCP and A2A
+
+
+| Title | Type | Duration |
+| --- | --- | --- |
+| [What is the Model Context Protocol (MCP)?](https://modelcontextprotocol.io/docs/getting-started/intro) | Whitepaper | 2 hours |
+| [AWS MCP Servers](https://awslabs.github.io/mcp/) | Repository | 2 hours |
+| [AWS Serverless MCP Server](https://aws.amazon.com/blogs/compute/introducing-aws-serverless-mcp-server-ai-powered-development-for-modern-applications/) | Blog | 1 hour |
+| [Building Agents with Amazon Nova Act and MCP](https://catalog.us-east-1.prod.workshops.aws/workshops/76c0e7e3-72c0-4781-a90d-5cfa494032e5/en-US) | Workshop | 4 hours |
+| [Open Protocols for Agent Interoperability Part 1: Inter-Agent Communication on MCP](https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-1-inter-agent-communication-on-mcp/) | Blog | 1.5 hours |
+| [Open Protocols for Agent Interoperability Part 2: Authentication on MCP](https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-2-authentication-on-mcp/) | Blog | 1.5 hours |
+| [Open Protocols for Agent Interoperability Part 3: Strands Agents & MCP](https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-3-strands-agents-mcp/) | Blog | 1.5 hours |
+| [Open Protocols for Agent Interoperability Part 4: Inter-Agent Communication on A2A](https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-4-inter-agent-communication-on-a2a/) | Blog | 1.5 hours |
+| [Exposing Amazon Bedrock Agents with the Agent2Agent (A2A) Protocol](https://builder.aws.com/content/2xzTIeksObACnUHAujoKq4KpLgQ/exposing-amazon-bedrock-agents-with-the-agent2agent-a2a-protocol) | Blog | 1.5 hours |
+| [Agentic Frameworks on AWS](https://github.com/aws-samples/sample-agentic-frameworks-on-aws) | Repository | 1.5 hours |
+
+
+
