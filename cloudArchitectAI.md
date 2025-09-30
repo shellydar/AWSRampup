@@ -63,6 +63,8 @@ For Architects looking to ramp-up on AI, See the resources below:
 | [Open Protocols for Agent Interoperability Part 4: Inter-Agent Communication on A2A](https://aws.amazon.com/blogs/opensource/open-protocols-for-agent-interoperability-part-4-inter-agent-communication-on-a2a/) | Blog | 1.5 hours |
 | [Exposing Amazon Bedrock Agents with the Agent2Agent (A2A) Protocol](https://builder.aws.com/content/2xzTIeksObACnUHAujoKq4KpLgQ/exposing-amazon-bedrock-agents-with-the-agent2agent-a2a-protocol) | Blog | 1.5 hours |
 | [Agentic Frameworks on AWS](https://github.com/aws-samples/sample-agentic-frameworks-on-aws) | Repository | 1.5 hours |
+| [Building multi-tenant architectures for agentic AI on AWS]([https://github.com/aws-samples/sample-agentic-frameworks-on-aws](https://docs.aws.amazon.com/pdfs/prescriptive-guidance/latest/agentic-ai-multitenant/agentic-ai-multitenant.pdf)) | Whitepaper | 2 hours |
+
 
 
 
