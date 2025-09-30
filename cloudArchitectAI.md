@@ -46,6 +46,8 @@ For Architects looking to ramp-up on AI, See the resources below:
 | [AWS re:Invent 2024 - Bias detection in LLMOps: Embedding ID&E into LLM lifecycles (IDE204)](https://www.youtube.com/watch?v=nG8sjVyeTq0) | Video | 1 hour |
 | [Introducing Strands Agents, an Open Source AI Agents SDK](https://aws.amazon.com/blogs/opensource/introducing-strands-agents-an-open-source-ai-agents-sdk/) | Blog | 1 hour |
 | [Strands Agents SDK: A technical deep dive into agent architectures and observability](https://aws.amazon.com/blogs/machine-learning/strands-agents-sdk-a-technical-deep-dive-into-agent-architectures-and-observability/) | Blog | 1 hour |
+| [LLM Security risks- OWASP Top 10 for LLM Applications 2025](https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/) | OWASP Doc | 2 hours |
+| [Well-Architected Machine learning lens](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/machine-learning-lens.html) | Whitepaper | 2 hours |
 
 
 ## Week 5 – Level 400 - MCP and A2A
